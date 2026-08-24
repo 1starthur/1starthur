@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arthur Gabriel Nery
 
-🚀 ** Software Developer | Java & Spring boot**  
+🚀 ** Backend Developer | Java & Spring Boot**  
 🇧🇷 Brazil
 
 ## 👨‍💻 About Me
@@ -25,7 +25,6 @@ I enjoy turning real-world problems into **practical and well-structured solutio
   
   <a href="https://github.com/1starthur">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
    <a href="https://www.linkedin.com/in/arthur-nery-6a1119238/" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    
@@ -75,8 +74,8 @@ I enjoy turning real-world problems into **practical and well-structured solutio
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1starthur&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1starthur&layout=compact&theme=tokyonight" />
 </p>
 
 ---
